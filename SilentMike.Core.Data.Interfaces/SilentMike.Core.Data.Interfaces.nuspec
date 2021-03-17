@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>SilentMike.Core.Data.Interfaces</id>
+    <version>1.3.0</version>
+    <title>SilentMike.Core.Data.Interfaces</title>
+    <authors>Michgał Cichowski</authors>
+    <owners>SilentMike</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Interfaces for .net core entity framework</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2020</copyright>
+  </metadata>
+</package>

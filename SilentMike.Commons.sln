@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SilentMike.Core.Data.Interfaces", "SilentMike.Core.Data.Interfaces\SilentMike.Core.Data.Interfaces.csproj", "{CB04EDF3-031F-46C5-800A-3761BE398526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilentMike.SqlLite.Data.Interfaces", "SilentMike.SqlLite.Data.Interfaces\SilentMike.SqlLite.Data.Interfaces.csproj", "{2FFDFA16-B17B-466B-93E8-3C79B51D7852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilentMike.EnumService", "SilentMike.EnumService\SilentMike.EnumService.csproj", "{FF46F779-5B6E-4533-8B7E-5A99A7056DCF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SilentMike.SqlLite.Core.Data.Interfaces", "SilentMike.SqlLite.Core.Data.Interfaces\SilentMike.SqlLite.Core.Data.Interfaces.csproj", "{1EE49B87-6CF3-4C16-A70A-72D42FE0ED87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SilentMike.Core.EnumService", "SilentMike.Core.EnumService\SilentMike.Core.EnumService.csproj", "{41ECE59D-906B-49CD-8A77-47278B716151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilentMike.Core5.Data.Interfaces", "SilentMike.Core5.Data.Interfaces\SilentMike.Core5.Data.Interfaces.csproj", "{DA9C9B96-5D85-407C-9A9A-3785A0AB2E0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB04EDF3-031F-46C5-800A-3761BE398526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB04EDF3-031F-46C5-800A-3761BE398526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB04EDF3-031F-46C5-800A-3761BE398526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB04EDF3-031F-46C5-800A-3761BE398526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FFDFA16-B17B-466B-93E8-3C79B51D7852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FFDFA16-B17B-466B-93E8-3C79B51D7852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FFDFA16-B17B-466B-93E8-3C79B51D7852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FFDFA16-B17B-466B-93E8-3C79B51D7852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF46F779-5B6E-4533-8B7E-5A99A7056DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF46F779-5B6E-4533-8B7E-5A99A7056DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF46F779-5B6E-4533-8B7E-5A99A7056DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF46F779-5B6E-4533-8B7E-5A99A7056DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE49B87-6CF3-4C16-A70A-72D42FE0ED87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE49B87-6CF3-4C16-A70A-72D42FE0ED87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE49B87-6CF3-4C16-A70A-72D42FE0ED87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE49B87-6CF3-4C16-A70A-72D42FE0ED87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41ECE59D-906B-49CD-8A77-47278B716151}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41ECE59D-906B-49CD-8A77-47278B716151}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41ECE59D-906B-49CD-8A77-47278B716151}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41ECE59D-906B-49CD-8A77-47278B716151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA9C9B96-5D85-407C-9A9A-3785A0AB2E0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9C9B96-5D85-407C-9A9A-3785A0AB2E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9C9B96-5D85-407C-9A9A-3785A0AB2E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9C9B96-5D85-407C-9A9A-3785A0AB2E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97A9469B-B2AF-45FD-8D60-821E2F31DE02}
+	EndGlobalSection
+EndGlobal
